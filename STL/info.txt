@@ -1,0 +1,1 @@
+Les fichiers STL correctement orienté pour l'impression, attention la plupart des fichiers nécessitent l'impression avec support
